@@ -1,0 +1,31 @@
+.logo-animation{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 200%;
+    background-color:white;
+    .logo-img{
+        
+        max-width: 250px;
+
+        
+        -webkit-animation:rotate-vert-center .5s linear 3 both;
+        animation:rotate-vert-center .5s linear 3 both
+    }
+    @-webkit-keyframes rotate-vert-center{
+        0%{
+            -webkit-transform:rotateY(0);transform:rotateY(0)
+        }
+        100%{
+            -webkit-transform:rotateY(360deg);transform:rotateY(360deg)
+        }
+    }
+    @keyframes rotate-vert-center{
+        0%{
+            -webkit-transform:rotateY(0);transform:rotateY(0)
+        }
+        100%{
+            -webkit-transform:rotateY(360deg);transform:rotateY(360deg)
+        }
+    }
+}

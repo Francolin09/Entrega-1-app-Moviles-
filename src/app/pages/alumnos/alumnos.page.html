@@ -1,0 +1,14 @@
+<app-header titulo="Lista de Alumnos"></app-header>
+<ion-content>
+<ion-list lines="full" *ngIf="listaAlumnos">
+  <ion-item *ngFor="let alumno of listaAlumnos">
+    <ion-avatar slot="start">
+    <img src="../../../assets/icon/usuariounknown.png" alt="{{alumno.image}}">
+    </ion-avatar>
+    <ion-label>
+      <h2>{{alumno.nombre}}</h2>
+      <h3>{{alumno.email | titlecase}}</h3>
+    </ion-label>
+  </ion-item>
+</ion-list>
+</ion-content>

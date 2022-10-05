@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "person-circle-outline",
+    "name": "Mi Perfil",
+    "redirectTo": "/grid"
+  },
+  {
+    "icon": "calendar-outline",
+    "name": "Horario",
+    "redirectTo": "/date-time"
+  },
+  {
+    "icon": "list-outline",
+    "name": "Registro de Clases",
+    "redirectTo": "/segment"
+  },
+  {
+    "icon": "checkmark-circle-outline",
+    "name": "Marcar asistencia",
+    "redirectTo": "/asistencia"
+  },
+  {
+    "icon": "pricetag-outline",
+    "name": "Alumnos inscritos",
+    "redirectTo": "/alumnos"
+  },
+  {
+    "icon": "search-outline",
+    "name": "Busqueda de clase",
+    "redirectTo": "/search"
+  },
+  {
+    "icon": "help-outline",
+    "name": "Quienes Somos",
+    "redirectTo": "/card"
+  },
+  {
+    "icon": "log-out-outline",
+    "name": "Cerrar Sesión",
+    "redirectTo": "/register"
+  }
+]

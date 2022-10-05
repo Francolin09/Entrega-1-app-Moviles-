@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button menu="first"></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Mi Perfil</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding" fullscreen>
+
+  <ion-grid fixed>
+    <ion-row>
+      <ion-col size="12" size-lg="3" size-md="4" size-sm="6">
+        <ion-card>
+          <ion-img src="../../../assets/icon/chico.png"></ion-img>
+        </ion-card> 
+        <ion-card-header>
+          <ion-card-subtitle>{{this.logeado.rol}}</ion-card-subtitle>
+          <ion-card-title>{{this.logeado.nombre}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content >
+          <ion-list>
+          <ion-item>
+          Información: {{this.logeado.perfil}}
+         </ion-item>
+          <ion-item>
+          Asignatura Inscrita: {{this.logeado.asignatura}}
+          </ion-item>
+          <ion-item>
+          Fono: {{this.logeado.telefono}}
+          </ion-item>
+        </ion-list>
+        </ion-card-content>
+      </ion-col>
+      
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

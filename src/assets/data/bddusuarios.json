@@ -1,0 +1,156 @@
+[
+    {
+        "nombre":"Christian Sarmiento",
+        "email":"profesor@duoc.cl",
+        "password":"profesor123",
+        "asignatura":"programación de aplicaciones moviles",
+        "perfil":"profesor de Duoc Uc encargado actualmente de impartir el ramo de aplicaciones moviles.",
+        "telefono":"+569 1234 5678",
+        "rol":"Profesor"
+    },
+    {
+        "nombre":"Augusto Alonso",
+        "email":"alumno@duoc.cl",
+        "password":"alumno123",
+        "asignatura":"programación de aplicaciones moviles",
+        "perfil":"alumno de Duoc Uc de 2 año de carrera informática actualmente está cursando el ramo de aplicaciones moviles.",
+        "telefono":"+569 1332 2331",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Armando Tamponi",
+        "email":"profesor2@duoc.cl",
+        "password":"profesor2123",
+        "asignatura":"arquitectura",
+        "perfil":"profesor de Duoc Uc encargado actualmente de impartir el ramo de arquitectura.",
+        "telefono":"+569 6666 6666",
+        "rol":"Profesor"
+    },
+    {
+        "nombre":"Marcelo Vera",
+        "email":"marcelo@duoc.cl",
+        "password":"marcelo123",
+        "asignatura":"fe cristiana",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Antonella Vejar",
+        "email":"antonella@duoc.cl",
+        "password":"anto123",
+        "asignatura":"Calidad de Software",
+        "perfil":"Alumna de Duoc Uc de segundo año de imformatica y telecomunicaciones",
+        "telefono":"+569 1234 5678",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Erick Araya",
+        "email":"erick@duoc.cl",
+        "password":"erick123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Mauricio Concha",
+        "email":"mauri@duoc.cl",
+        "password":"mauri123",
+        "asignatura":"fe cristiana",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Rafel Aguilera",
+        "email":"rafa@duoc.cl",
+        "password":"rafa123",
+        "asignatura":"fe cristiana",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Fernando Soto",
+        "email":"fernando@duoc.cl",
+        "password":"fernando123",
+        "asignatura":"fe cristiana",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Patricio Jara",
+        "email":"patricio@duoc.cl",
+        "password":"patricio123",
+        "asignatura":"fe cristiana",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Ernesto Cerda",
+        "email":"ernesto@duoc.cl",
+        "password":"ernesto123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Fabiana Pino",
+        "email":"fabiana@duoc.cl",
+        "password":"fabiana123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumna de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7460 6335",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Catalina Monserrat",
+        "email":"catalina@duoc.cl",
+        "password":"catalina123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumna de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7250 7343",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Pedro Aguirre",
+        "email":"cerda@duoc.cl",
+        "password":"pedro123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Carlos Valdovino",
+        "email":"carlos@duoc.cl",
+        "password":"carlos123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Fabian Lorca",
+        "email":"fabian@duoc.cl",
+        "password":"fabian123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    },
+    {
+        "nombre":"Roberta Vejar",
+        "email":"roberta@duoc.cl",
+        "password":"roberta123",
+        "asignatura":"Arquitectura",
+        "perfil":"Alumno de segundo año de informatica y telecomunicaciones.",
+        "telefono":"+569 7450 7345",
+        "rol":"Alumno"
+    }
+   
+]

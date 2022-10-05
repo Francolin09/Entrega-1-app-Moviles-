@@ -1,0 +1,30 @@
+ion-content {
+    //color de fondo
+    --background: linear-gradient(to right, rgb(255, 255, 255), rgb(20, 45, 116));
+}
+
+ion-card {
+    background: transparent;
+    box-shadow: none;
+    ion-img {
+        margin-top: 20px;
+        height: 30vh;
+        display: flex;
+    }
+}
+
+ion-card-title {
+    text-align: center;
+    span {
+        color: rgb(24, 24, 26);
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+ion-card-subtitle {
+    text-align: center;
+    span {
+        color: rgb(24, 24, 26);
+        font-family: 'Courier New', Courier, monospace;
+    }
+}

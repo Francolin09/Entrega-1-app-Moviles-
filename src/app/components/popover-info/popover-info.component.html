@@ -1,0 +1,5 @@
+<ion-list>
+  <ion-item *ngFor="let item of items; let i=index" (click)="onClick(i+1)">  <!--PPeeero para que esto funcione se debe hacer modificvaciones en el components.module.ts y agregar el PopoverInfoComponent en las declarations y tambien en exports para ocuparlo afuera-->
+    <ion-label>Item:{{i + 1}}</ion-label>
+  </ion-item>
+</ion-list>
